@@ -1,0 +1,15 @@
+scheme,source_type,url
+ALL,factsheets_index,https://www.sbimf.com/factsheets
+ALL,offer_documents,https://www.sbimf.com/offer-document-sid-kim
+ALL,ter_page,https://www.sbimf.com/total-expense-ratio
+ALL,ways_to_invest,https://www.sbimf.com/ways-to-invest
+SBI_Multicap,scheme_page,https://www.sbimf.com/campaign/sbi-multicap-fund
+SBI_ELSS_Tax_Saver,scheme_page,https://www.sbimf.com/campaign/sbi-elss-tax-saver-fund
+SBI_Flexicap,kim,https://www.sbimf.com/docs/default-source/scheme-portfolios/default-library/kim---sbi-flexicap-fundec2d6f6fd31642cb935f76d32c8c317c.pdf?sfvrsn=493b2dd8_0
+SBI_Flexicap,sid,https://www.sbimf.com/docs/default-source/lists/sid---sbi-flexicap-fund.pdf?sfvrsn=49f4cfd1_0
+SBI_ELSS_Tax_Saver,sid,https://www.sbimf.com/docs/default-source/sif-forms/sid---sbi-elss-tax-saver-fund.pdf
+SEBI,mutual_fund_master_circular,https://www.sebi.gov.in/sebi_data/attachdocs/mar-2026/1774024028162.pdf
+SBI_Large_Cap,factsheet,https://www.sbimf.com/docs/default-source/scheme-factsheets/all-sbimf-schemes-factsheet-march-2026.pdf?sfvrsn=4659a7f0_4
+SBI_Multicap,factsheet,https://www.sbimf.com/docs/default-source/scheme-factsheets/all-sbimf-schemes-factsheet-march-2026.pdf?sfvrsn=4659a7f0_4
+SBI_Flexicap,factsheet,https://www.sbimf.com/docs/default-source/scheme-factsheets/sbi-flexicap-fund-factsheet-march-2026.pdf?sfvrsn=39a6ea88_2
+SBI_ELSS_Tax_Saver,factsheet,https://www.sbimf.com/docs/default-source/scheme-factsheets/sbi-elss-tax-saver-fund-factsheet-march-2026.pdf?sfvrsn=29d79745_2
