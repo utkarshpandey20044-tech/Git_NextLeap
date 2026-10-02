@@ -5,4 +5,3 @@ __pycache__/
 data/documents/
 data/processed/
 data/chunks/
-data/chroma/
